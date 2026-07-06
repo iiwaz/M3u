@@ -1,0 +1,26 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="رياضة",Bein sport max 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://xyzstreams.st/
+https://inproviszon.st/bein-xyz-waUvqaAACr.m3u8
+
+#EXTINF:-1 group-title="رياضة",Bein sport max 4K
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://xyzstreams.st/
+https://inproviszon.st/bein4k-xyz-waUvqaAACr.m3u8
+
+#EXTINF:-1 group-title="رياضة",TSN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://xyzstreams.st/
+https://inproviszon.st/tsn1-xyz-waUvqaAACr.m3u8
+
+#EXTINF:-1 group-title="رياضة",Telemundo
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://xyzstreams.st/
+https://inproviszon.st/telemundo-xyz-waUvqaAACr.m3u8
+
+#EXTINF:-1 group-title="رياضة",iTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://xyzstreams.st/
+https://inproviszon.st/itv-xyz-waUvqaAACr.m3u8
